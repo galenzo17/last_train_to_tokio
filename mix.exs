@@ -22,6 +22,11 @@ defmodule LastTrainToTokio.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
+      # Will add more dependencies as needed when Erlang modules are available
+      # {:faker, "~> 0.18"},
+      # {:stream_data, "~> 1.1"},
+      # {:telemetry, "~> 1.2"},
+      # {:jason, "~> 1.4"}
     ]
   end
 end
